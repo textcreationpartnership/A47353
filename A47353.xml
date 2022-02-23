@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at Glascow in Scotland, by Mr. James Kea, to the rebels in arms the text, Sion is wounded.</title>
+            <author>Kea, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47353</idno>
+            <idno type="STC">Wing K43</idno>
+            <idno type="STC">ESTC R12948</idno>
+            <idno type="EEBO-CITATION">12934379</idno>
+            <idno type="OCLC">ocm 12934379</idno>
+            <idno type="VID">95730</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47353)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95730)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 717:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at Glascow in Scotland, by Mr. James Kea, to the rebels in arms the text, Sion is wounded.</title>
+                  <author>Kea, James.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In Scotch dialect.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, Scottish --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="sco">
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:95730:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <head>A SERMON Preached at <hi>Glaſcow</hi> in <hi>SCOTLAND,</hi> By Mr. <hi>JAMES KEA,</hi> TO The Rebels in Arms.</head>
+            <head type="sub">The TEXT, <hi>Sion is wounded.</hi>
+            </head>
+            <opener>
+               <salute>BEluved in our Loard,</salute>
+            </opener>
+            <p>before I gang any furder, gee me leave, by the geate, to ſhow yee twa things, and then I's open my Text and hanle my pearts as they ligg in order. 1ſt. Beluved, wha is meant by <hi>Sion</hi> i'my Text, that's ean the pure Kirk a <hi>Scotland,</hi> the hally Profet talls ye with a hoy hart, that <hi>Sion</hi> is wonded; but gen he had leved e theſe weafow dayes a ours, he e plain termes wad a tall'd ye that te pure Kirk a <hi>Scotland</hi> is wonded. 2ly. Wha has wonded her tro ye? To this purpoſe I's tell ye a tale, but I's nay ſay 'tis true; but be it true, or be it fauce, takt as I tink it a Gods beneſon: When I was a young Laddy, thur was a warſom man a Student a Theologie in the Colledge of <hi>Aberdeen,</hi> an he was te make a Preechment before te Maſters a this Colledge; an out au te hally Scripture o God he weiled this Text: an he tall'd 'um, What will ye give me, an Is't betray her to ye? (and he cud haſel it in Latine, <hi>Quid dabitis?</hi>) And tere was a honeſt auld man ſitinge at te fuet of te Powpit, and he ſes tull him, <hi>Sir, gin yele betray him te me, Is't give ye a geud fat Biſhop<g ref="char:EOLhyphen"/>rick.</hi> Now ye may here by this wha it is that betrays Criſt, an wonds te pure Kirk a <hi>Scotland.</hi> But now te come te my Text, <hi>Sion is wonded,</hi> te pure Kirk of <hi>Scotland</hi> is wonded; wher is ſhe
+<pb n="2" facs="tcp:95730:2"/>
+               <!-- PDF PAGE 35 -->
+wonded tro ye? I trow an ſhe were wele lanced, ther wad ne prove a ſond bit in hur; but for mere ſatisfaction, ſhe is won<g ref="char:EOLhyphen"/>ded e fore places. 1ſt. She is wonded e hur head, e reſpect a hur Rulars. 2ly. E hur hands, e reſpect a hur Decipline. 3ly. E hur hart, e reſpect a hur Doctrin. An 4ly. E hur feet, e reſpect of hur Worſhip. Now we Gads good leave ya ward or twa to eke a them, in a ward a applycation, and ſe Is't come te a cloſe. 1ſt. Beluved, te pure Kirk a <hi>Scotland</hi> is wonded e hur hed, e reſpect a hur Rulars. Is't teel ye, Beluved, te pure Kirk a <hi>Scotland</hi> has got ſick a clack o hur head as has gerd hur breins to jumpe agean: and who is it, tro you? I mean by hur Rulars, ene thoſe that miſrule hur; that's ene te proud Bi<g ref="char:EOLhyphen"/>ſhops. And te Biſhops they ha wonded hur we three Sweards: 1ſt. We te ſweard o ther Pride. I ha ſeen te day, and ſea has ſum o yea, whan a gued Miniſter wad a gen tripen up an down te geate fow wanſamly, we a Cap o his head an a ſhort Cleake we a ſide-neck, an a Gads name he wad a made a fow wanſom Preechment wad a den a hart gued to a heard him: But te Biſhops thur proud fow ſwingers, tha mun ha thur ſilk Girdles hang dribbling about thur Arſes, an as mickle about thur tales as wad mak ſix peer a Briches tel a peer man. 2ly. ſhe has wonded te pure Kirk a <hi>Scotland</hi> we the ſweard a hur Gluttony. I ha heard te day that a gued Miniſter wad ha been weel content we a diſh fow a Milk an Bread, or ought that te hally gued Gad wad a ſent; but te Biſh. thur bellygad lownes, I'ſt fear tha'l no gang te the Deele we lean branes: they eat and drink an feed o te fat o te Land, but gen a peer man cum to thur deare death-like, een to famiſh for caud an hanger, tha'l naw ge him ſe micle as wad fill his maw. 3ly. Tha ha wonded te peer Kirk a <hi>Scotland</hi> we the ſweard of thur Co<g ref="char:EOLhyphen"/>vetuſneſs. Beluved, tha mun ha ſea mickle ilken Bural, ſea mickle Bridal, and ſea mickle for ilken Wile an Teſtament, an Gad kens what meer beſide; weel I'ſt ſay in a wurd ge um ene te Deel for he's mickle, an tha ar ene greedy that neer be ſatisfied. Tha ha ſea robbed, an ſea hirried, and ſea pillaged an plundered te peer Kirk a <hi>Scotland,</hi> that gan Gad will ne ſcarge um out o'th Land, as he did ye ance before, tha'l ne leave hur ſo mickle as yaw nale to claw hur ſell withaw.
+<pb n="3" facs="tcp:95730:2"/>
+               <!-- PDF PAGE 35 -->
+2ly. Te peer Kirk a <hi>Scotland</hi> is wounded e hur hans, e re<g ref="char:EOLhyphen"/>ſpect o hur Diſcipline. I'ſt teel ye, Beluved, te peer Kirk a <hi>Scotland</hi> is ſo wounded e hur hands, that this long while ſine te King o <hi>Angland</hi> cam in, ſhe cud nere make a hammock o a cauld day: we ha ſike ſtraung an uncouth Laws among us, weel anger us aul te heart before we geet rid o um: tha teel us we mun ne preech we out ore white ſackes o or backs, an that we mun ha a neeſt a whiſles ſet up e or Kirks; that we mun ha ore Barnes baptezed we a ſine o te Croſs, or rader we te ſine o te hore; wele let te homigers de what te will, Iſt fear Chriſt an his hally Deſciples neer learnt any ſike thing. 3ly. Te peer Kirk a <hi>Scotland</hi> is wonded e hur Hart e reſpect o hur Doctrin. Te Kirk a <hi>Scotland</hi> is ſe rotten o hur Hart, an that ſame infection has ſe ſpread it ſell thro aw hur body, that te ſea the truth o hur, ſhe is nother ſond winde nor lim, an ne portion will cure hur but te hally, hally Solemne League and Cuvenant renued, which we Gads good bleſſing wad reſtore hur to hur wonted health. Agen, 4ly. Te peer Kirk a <hi>Scotland</hi> is wonded e hur feet e reſpect o hur Worſhip. I can remember, Beluved, ſine te Kirk o <hi>Scotland</hi> meght a-been liknet te a bony nagg, that cud amelet an peace it fow ſweet<g ref="char:EOLhyphen"/>ly; but te Biſhops thur galloping ſwingers tha gat o ye back o that nag, an tha quite jaded hime up te ruin; for they lade upon hur back te buek o Comon Prayer, an te buek o Cannons; an ſine tha came to <hi>London,</hi> they lade upon hur back te Yeath o Supremacy an te Kirk Law-bueks; an than they came trippen down te <hi>Edenburgh</hi> te unlate thur baggage, I wornt what ar<g ref="char:EOLhyphen"/>rant tha had there; but Beluved, what here an what there, tha ha ſea uſed him, that they ha no left yeaw faſt naile e his fuet: an now Beluved, we may tell ore teale without lauter, we can liken hime now to neane but <hi>Balams Aſs,</hi> e which ſtory thur be three things te be heeded. 1. Te Aſs, that's ene te peer Kirk o <hi>Scotland.</hi> 2ly. Te riders, an that's ene te proud Biſhops. 3ly. Te gued Angell that ſtopt te Aſs by te geate, an who tro ye is that? I wot weel ye wad fain hear that; why 'tis ene my good Lard <hi>H.</hi> Gads beniſon on his bony face, ther he ſits, the trimeſt light that ere te peer Kirk o <hi>Scotland</hi> ever ſaw. And now we hope te gued Angell will kick te
+<pb n="4" facs="tcp:95730:3"/>
+               <!-- PDF PAGE 36 -->
+lownes out o the ſaddle, for he hangs by te hough, hauf out an haufe in; an fain wad he keep in ſtill; an talls ye, let him but ſtay in an he'l nere trouble ye we te pork<g ref="char:EOLhyphen"/>mantle any meer; but the Deele is a wilye paw, let him but get in his little finger, an he'l ſeen get in his heele hand; let but te Lownes get his arſe into the ſaddle ageane, an ye may aw paw tell ye are weary before ye can get him out agen. But now ya ward or twa o uſes: an 1. ya word o incorragment te all te gued people o Gad, that ha ſet thur heart an hans te re<g ref="char:EOLhyphen"/>nuing te auld an antient Solemn League an Cuvenant: weel, Iſt ſay ne meer but this, as ye ha began this gued warke, ene ſee it perfit, and ye ſhall no looſe yere reward e heaven, 2ly. I ha ya word o reproofe to ye Proveſt and Bayliffe of this gued Town, ye weel ne ſubſcribe te year, but bide te next year an then ye weel; but I ſee ye are aw alive te year, but Gad kens who will be alife neext. I ha ya ward meer o reproofe to ye Collecters o ye Kings rents, ye will no ſubſcribe nowther, till next year yer Offices be out, for fear o the Kings diſpleaſure. Beluved, I mun conclude we ya ward, an that is this, ene this; There is but ya ſort o folke between Gad an ye: tak away that ſort o men, an ye may aw gang to heven, ſheeke by ſhole, yan by another.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
